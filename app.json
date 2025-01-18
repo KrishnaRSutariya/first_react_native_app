@@ -1,0 +1,14 @@
+{
+  "name": "first_react_native_app",
+  "displayName": "first_react_native_app",
+  "expo": {
+    "sdkVersion": "52.0.0",
+    "name": "first_react_native_app",
+    "slug": "first_react_native_app",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
